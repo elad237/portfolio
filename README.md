@@ -1,30 +1,30 @@
-# My Portfolio
+Portfolio: setup and mobile first
+This was created for microverse's activity and also I created the repository "personal-portfolio"
+Built With
+HTML y CSS
+Git, Github and Visual Studio Code
+Linters
+Getting Started
+To get a local copy up and running follow these simple example steps.
 
-> Description the project.
-> This project contains my personal information and all the projects I have built using HTML and CSS.
-> In this part of the project I designed the header section(toolbar) and Headline section
+Choose a directory
+Open a Terminal
+git clone https://github.com/elad237/hello_microverse.git
+go to directory "hello_microverse"
+npm install
+Authors
+👤 tumbu
 
-## Built With
-
-- HTML
-- CSS
-
-## Authors
-
-👤 **Ndorrh Oswald Ebu**
-
-- GitHub: [@githubhandle](https://github.com/ndorrh)
-- Twitter: [@twitterhandle](https://twitter.com/ndorrh)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ndorrh-oswald-ebu-82ab02236/)
-
-## 🤝 Contributing
-
+GitHub: @elad237
+Twitter: @Elad59380989
+LinkedIn: tumbu
+🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-## Show your support
+Feel free to check the issues page.
 
+Show your support
 Give a ⭐️ if you like this project!
 
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
+📝 License
+This project is MIT licensed.
