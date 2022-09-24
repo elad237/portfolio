@@ -9,8 +9,8 @@ To get a local copy up and running follow these simple example steps.
 
 Choose a directory
 Open a Terminal
-git clone https://github.com/elad237/hello_microverse.git
-go to directory "hello_microverse"
+git clone https://github.com/elad237/personal-portfolio.git
+go to directory ""development 
 npm install
 Authors
 👤 tumbu
